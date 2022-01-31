@@ -9,7 +9,7 @@
 <html>
 <body>
 <p>
-Please provide feedback on these Prodducts</p>
+Please provide feedback on these Products</p>
 
 <h1>Opportunity Title:</h1>
 <p>Marty Co</p>
