@@ -12,7 +12,7 @@
             continue: 'Update Evaluation',
             loggedOut: 'Evaluate',
             start: 'Start Evaluation',
-            style: 'background-color: #FFFFFF;color: #023C56;'
+            style: 'background-color: #023C56;color: #FFFFFF;'
           },
           evaluation: {
             showSuccess: true
