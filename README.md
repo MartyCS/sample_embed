@@ -2,7 +2,7 @@
 <head>
 <script>
   window.CROWDSMART_TOKEN_USER = {
-    token: 'sample'
+    token: 'sample2'
   }
 </script>
 </head>
