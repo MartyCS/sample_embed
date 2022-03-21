@@ -4,7 +4,27 @@
   window.CROWDSMART_TOKEN_USER = {
     token: 'sample2'
   }
-</script>
+
+      window.CROWDSMART_EMBED_CONFIG = {
+        crowdSmartConfig: {
+          cta: {
+            completed: 'Revisit Evaluation',
+            continue: 'Update Evaluation',
+            loggedOut: 'Evaluate',
+            start: 'Start Evaluation',
+            style: 'background-color: #FFFFFF;color: #023C56;'
+          },
+          evaluation: {
+            showSuccess: true
+          },
+          font: {
+            href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap',
+            family: '"Montserrat", sans-serif'
+          }
+        }
+      }
+  </script>
+  
 </head>
 <html>
 <body>
