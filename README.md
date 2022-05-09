@@ -2,6 +2,7 @@
 <head>
 
 <script>
+
 window.CROWDSMART_TOKEN_USER = {
 token: '2975'
 }
@@ -24,9 +25,6 @@ token: '2975'
           }
         }
       }
-
-    window.CROWDSMART_TOKEN_USER = {
-token: 'sample3'
   }
 
   </script>
