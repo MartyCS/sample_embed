@@ -1,14 +1,17 @@
 # Welcome to an example data room
 <head>
-      
+
 <script>
+window.CROWDSMART_TOKEN_USER = {
+token: '2975'
+}
 
       window.CROWDSMART_EMBED_CONFIG = {
         crowdSmartConfig: {
           cta: {
             completed: 'Revisit Evaluation',
             continue: 'Update Evaluation',
-            loggedOut: 'Evaluate',
+            loggedOut: 'Evaluate me',
             start: 'Start Evaluation',
             style: 'background-color: #023C56;color: #FFFFFF;'
           },
@@ -27,7 +30,7 @@ token: 'sample3'
   }
 
   </script>
-  
+
 </head>
 <html>
 <body>
@@ -68,5 +71,3 @@ Please provide feedback on these Products</p>
       id="crowdsmart-embed-script"
       data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/org3/39dc14bc-bf26-11eb-8217-0686f2812bf3/66156888-82be-11ec-bfd8-0669f33159a9">
   </script>
-  
-  
