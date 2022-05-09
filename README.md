@@ -1,4 +1,5 @@
 # Welcome to an example data room
+<!DOCTYPE html>
 <head>
 
   <script>
