@@ -1,6 +1,7 @@
 # Welcome to an example data room
 <head>
-<script>
+
+  <script>
   window.CROWDSMART_TOKEN_USER = {
     token: 'sample2'
   }
