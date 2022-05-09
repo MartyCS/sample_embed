@@ -1,9 +1,6 @@
 # Welcome to an example data room
 <head>
 <script>
-  window.CROWDSMART_TOKEN_USER = {
-    token: 'sample2'
-  }
 
       window.CROWDSMART_EMBED_CONFIG = {
         crowdSmartConfig: {
@@ -23,6 +20,11 @@
           }
         }
       }
+  
+    window.CROWDSMART_TOKEN_USER = {
+    token: 'sample2'
+  }
+  
   </script>
   
 </head>
