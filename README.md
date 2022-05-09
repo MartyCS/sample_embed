@@ -1,5 +1,6 @@
+# Welcome to an example data room
 <head>
-
+<html>
 
 <script>
     window.CROWDSMART_TOKEN_USER = {
@@ -25,9 +26,7 @@
 </script>
   
 </head>
-# Welcome to an example data room
 
-<html>
 <body>
 <p>
 Please provide feedback on these Products</p>
