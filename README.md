@@ -1,4 +1,3 @@
-# Welcome to an example data room
 <head>
 
 
@@ -26,6 +25,8 @@
 </script>
   
 </head>
+# Welcome to an example data room
+
 <html>
 <body>
 <p>
