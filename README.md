@@ -2,13 +2,13 @@
 <head>
 
 
-  <script>
+<script>
     window.CROWDSMART_TOKEN_USER = {
       token: 'sample2'
     }
-  </script>
+</script>
   
-  <script>
+<script>
       window.CROWDSMART_EMBED_CONFIG = {
         crowdSmartConfig: {
           cta: {
@@ -23,7 +23,7 @@
           },
         }
       }
-  </script>
+</script>
   
 </head>
 <html>
