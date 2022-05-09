@@ -1,5 +1,5 @@
 # Welcome to an example data room
-<head>
+<header>
 
 <script>
 
@@ -25,11 +25,11 @@ token: '2975'
           }
         }
       }
-  }
+
 
   </script>
 
-</head>
+</header>
 <html>
 <body>
 <p>
