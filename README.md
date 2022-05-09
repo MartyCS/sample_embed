@@ -1,14 +1,10 @@
 # Welcome to an example data room
 <head>
-<html>
+<script>
+  window.CROWDSMART_TOKEN_USER = {
+    token: 'sample2'
+  }
 
-<script>
-    window.CROWDSMART_TOKEN_USER = {
-      token: 'sample2'
-    }
-</script>
-  
-<script>
       window.CROWDSMART_EMBED_CONFIG = {
         crowdSmartConfig: {
           cta: {
@@ -21,12 +17,16 @@
           evaluation: {
             showSuccess: true
           },
+          font: {
+            href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap',
+            family: '"Montserrat", sans-serif'
+          }
         }
       }
-</script>
+  </script>
   
 </head>
-
+<html>
 <body>
 <p>
 Please provide feedback on these Products</p>
@@ -66,5 +66,4 @@ Please provide feedback on these Products</p>
       data-embed-url="https://stage-app.crowdsmart.ai/embed/evaluation/org3/39dc14bc-bf26-11eb-8217-0686f2812bf3/66156888-82be-11ec-bfd8-0669f33159a9">
   </script>
   
-  </body>
-</html>
+  
