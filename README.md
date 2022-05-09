@@ -1,5 +1,6 @@
 # Welcome to an example data room
 <head>
+      
 <script>
 
       window.CROWDSMART_EMBED_CONFIG = {
@@ -20,11 +21,11 @@
           }
         }
       }
-  
+
     window.CROWDSMART_TOKEN_USER = {
-    token: 'sample2'
+token: 'sample3'
   }
-  
+
   </script>
   
 </head>
