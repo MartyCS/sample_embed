@@ -12,7 +12,7 @@ token: '2975'
           cta: {
             completed: 'Revisit Evaluation',
             continue: 'Update Evaluation',
-            loggedOut: 'Evaluate me',
+            loggedOut: 'Evaluate',
             start: 'Start Evaluation',
             style: 'background-color: #023C56;color: #FFFFFF;'
           },
