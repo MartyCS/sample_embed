@@ -18,10 +18,6 @@ token: '2975'
           },
           evaluation: {
             showSuccess: true
-          },
-          font: {
-            href: 'https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&display=swap',
-            family: '"Montserrat", sans-serif'
           }
         }
       }
